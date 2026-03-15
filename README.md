@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Insurance Claim Exploratory Data Analysis
 Project Overview
 This project performs an Exploratory Data Analysis (EDA) on an insurance dataset to understand the factors influencing medical insurance claim amounts.
@@ -66,3 +67,7 @@ Install dependencies
 Copy code
 pip install -r requirements.txt
 Open the notebooks folder and run the analysis notebooks.
+=======
+# insurance-eda-project
+Exploratory Data Analysis of Insurance Claim Dataset
+>>>>>>> 95becfa8b5c2da6f7dfe5d124ae292da10ab425c
