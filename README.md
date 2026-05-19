@@ -71,3 +71,4 @@ Open the notebooks folder and run the analysis notebooks.
 # insurance-eda-project
 Exploratory Data Analysis of Insurance Claim Dataset
 >>>>>>> 95becfa8b5c2da6f7dfe5d124ae292da10ab425c
+>>>>>>> [LinkedIn Profile](https://pk.linkedin.com/in/saqib-hussain-a047143b9)
